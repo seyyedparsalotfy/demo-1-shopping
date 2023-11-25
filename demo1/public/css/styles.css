@@ -2,7 +2,11 @@ body{
     font-family: yekan;
 }
 .input-group-append{
-    border-radius: 3em 2em 1em;
+    border-radius: 3em 2em 1em; 
+    border: #111;
+}
+.form-control{
+    border: #6c6;
 }
 .container-fluid{
     max-width: 1220px;
