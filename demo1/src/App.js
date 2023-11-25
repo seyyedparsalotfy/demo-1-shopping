@@ -1,8 +1,4 @@
-
-import './App.css';
-
-const App  = () => {
+const app = () =>{
 
 }
-
-export default App;
+export default app;
