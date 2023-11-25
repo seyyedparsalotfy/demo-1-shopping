@@ -1,15 +1,20 @@
+#navbar{
+    background-color: #333
+}
 body{
     font-family: yekan;
+    background-color: #333;
 }
 .input-group-append{
     border-radius: 3em 2em 1em; 
     border: #111;
 }
 .form-control{
-    border: #6c6;
+    border: #111;
 }
 .container-fluid{
     max-width: 1220px;
+    background-color:#333;
 }
 
 a:hover{
@@ -20,22 +25,28 @@ a:hover{
     font-size: 26px;
     padding-top: 20px;
     padding-bottom: 20px;
+    background-color: #333;
+    
 }
 
 #head-tools ul{
     margin-bottom: 10px;
+    background-color: #333;
 }
 
 #head-tools ul a{
-    color: #777;
+    color: #7fff00;
+    background-color: #333;
 }
 
 #head-tools ul a:hover{
     color: red;
+    background-color: #333;
 }
 
 #head-tools ul i{
     margin-left: 8px;
+    background-color: #333;
 }
 
 #head-tools li .badge{
@@ -43,6 +54,7 @@ a:hover{
     top: -10px;
     right: -18px;
     font-size: 14px;
+    background-color: #333;
 }
 
 #basket a{
@@ -50,48 +62,59 @@ a:hover{
     border-radius: 5px;
     display: flex;
     overflow: hidden;
+    background-color: #333;
+
 }
 
 #basket .basket-icon{
     background-color: #6c6;
     padding: 5px 15px;
+    background-color: #333;
 }
 
 #basket .basket-text{
     padding: 5px 15px;
-    background-color: #4b5;
+    background-color: #333
 }
 
 .my-shadow{
     box-shadow: 0 1px 2px 0 rgba(0 , 0 , 0 , 0.1);
+
 }
 
 #logo{
     padding-top: 16px;
     padding-bottom: 16px;
+    background-color: #333;
 }
 
 #top-menu{
     font-size: 13px;
     position: relative;
+    background-color: #555;
 }
+
 
 #top-menu nav{
     padding: 8px;
+    background-color: #333;
 }
 
 #top-menu .nav-link{
     color: #555;
     padding: 6px 15px;
+    background-color: #333;
 }
 
 #top-menu .nav-link:hover{
     color: black;
+    background-color: #333;
 }
 
 main{
-    background-color: #eeeff1;
+    
     padding: 15px 0;
+    background-color: #333;
 }
 
 .section-box{
